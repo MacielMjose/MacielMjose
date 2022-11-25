@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MacielMjose
-- 👀 I’m interested in web developmnet, system architecture and design patterns
+- 👀 I’m interested in web developmnet, systems architecture and design patterns
 - 🌱 I’m currently learning react and react native
 - 💞️ I’m looking to collaborate on open-source .net projects.
 - 📫 How to reach me: jlmm92.maciel@gmail.com
